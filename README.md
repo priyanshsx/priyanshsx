@@ -17,6 +17,7 @@ I'm a communicator who decided to learn how markets and data actually work. That
 📊 2026 — Completed FMVA, CMSA, FP&A, and FPWMP (Corporate Finance Institute). Started learning Python, SQL, and market data analysis. Currently trading and researching both crypto and traditional finance markets.
 
 **My Projects**
+
 [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project! 
 
 **What I'm working on**
