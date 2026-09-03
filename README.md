@@ -10,7 +10,7 @@ I taught myself SQL and Python, went deep on core finance (four certifications f
 
 I'm a communicator who decided to learn how markets and data actually work. That combination makes me a highly potent and incisive professional. 
 
-**My Timeline** 
+**Timeline** 
 
 🖋️ 2020–2024 — Content & growth lead for crypto protocols including ClayStack and Neemo Finance; independent research-and-content work with Castle Capital and several crypto KOLs.
 🚀 2025 — Founded Quartermaster Labs, an independent Web3 research and growth advisory. Scaled it to $10K MRR, then wound it down to go all-in on data and markets.
@@ -18,14 +18,16 @@ I'm a communicator who decided to learn how markets and data actually work. That
 
 **My Projects**
 
-[Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project! 
+- [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project! 
 
 **What I'm working on**
+
 My public projects: Deep dive into how macro variables (yields, bonds, inflation) impact growth and alternative assets (tech/growth stocks, crypto) and commodities. 
 
-**Currently Working With/TOols**
-Python and SQL for actual analysis
-I'm also working through C and C++ slowly, on the side, because I want to understand computing from the ground up. 
+**Currently Working With/Tools**
+
+- Python and SQL for actual analysis
+- I'm also working through C and C++ slowly, on the side, because I want to understand computing from the ground up. 
 
 **Career Documents**
 [Resume](https://drive.google.com/file/d/1ld7BskoVL6wQs3paxgwCDcse94ulr1vX/view?usp=sharing) 
