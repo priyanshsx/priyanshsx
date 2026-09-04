@@ -32,7 +32,9 @@ My public projects: Deep dive into how macro variables (yields, bonds, inflation
 **Career Documents**
 
 [Resume](https://drive.google.com/file/d/1ld7BskoVL6wQs3paxgwCDcse94ulr1vX/view?usp=sharing) 
+
 [Cover Letter](https://drive.google.com/file/d/13pZN2DPNt24d_3_6HLh7YEJyiA8cyaZV/view?usp=sharing) 
+
 [Public profile and repos](https://github.com/priyanshsx?tab=repositories)
 
 **Let's Connect**
