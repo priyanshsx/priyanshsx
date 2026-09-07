@@ -18,7 +18,8 @@ I'm a communicator who decided to learn how markets and data actually work. That
 
 **My Projects**
 
-- [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project! 
+- [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project!
+- [BTC: Bull vs Bear Regimes (Jan 2023 - Sep 2026)](https://github.com/priyanshsx/btc-bull-vs-bear-regimes): a project that classifies each day of BTC trading over the past 3.6 years into a 'bull' or 'bear' regime using a single indicator: 200-day MA. 
 
 **What I'm working on**
 
