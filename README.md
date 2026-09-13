@@ -17,11 +17,12 @@ I'm a communicator who decided to learn how markets and data actually work. That
 📊 2026 — Completed FMVA, CMSA, FP&A, and FPWMP (Corporate Finance Institute). Started learning Python, SQL, and market data analysis. Currently trading and researching both crypto and traditional finance markets.
 
 **My Projects**
-
+- [OHLCV Downloader (crypto)](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader): Lets you download cleaned and neatly formatted .csv files from Yahoo Finance for crypto assets!
+- [Tick Inspector](https://github.com/priyanshsx/tick-inspector): Lets you run crypto data downloaded from Yahoo Finance and generates a data health report (looks for missing values, 0 values, bad data etc.).
+- [Ecommerce Dashboard (Tableau)](https://github.com/priyanshsx/ecommerce-dashboard): Analyzed Kaggle's Olist E-commerce dataset and created a public Tableau dashboard analyzing key sales and logistics performance questions. Check out the dashboard [here](https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17890159015860/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+- [YouTube Crypto Content Analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis): Analyzes the top 10 crypto YouTuber's videos and finds what video length and content types fuel high engagement rates. Check out the public dashboard [here](https://public.tableau.com/app/profile/priyansh.saxena7208/viz/YouTubeCryptoContentAnalysisTop50YouTubers/YoutubeCryptoContentAnalysisTop10)
 - [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project!
 - [BTC: Bull vs Bear Regimes](https://github.com/priyanshsx/btc-bull-vs-bear-regimes): a project that classifies each day of BTC trading over the past 3.6 years into a 'bull' or 'bear' regime using a single indicator: 200-day MA.
-- [Ecommerce Dashboard (Tableau)](https://github.com/priyanshsx/ecommerce-dashboard): Analyzed Kaggle's Olist E-commerce dataset and created a public Tableau dashboard analyzing key sales and logistics performance questions. Check out the dashboard [here](https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17890159015860/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-- [YouTube Crypto Content Analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis): Analyzes the top 10 crypto YouTuber's videos and finds what video length and content types fuel high engagement rates. Check out the public dashboard [here](https://public.tableau.com/app/profile/priyansh.saxena7208/viz/YouTubeCryptoContentAnalysisTop50YouTubers/YoutubeCryptoContentAnalysisTop10). 
 
 **What I'm working on**
 
