@@ -1,46 +1,41 @@
-## Hi there 👋
+# Hi, I'm Priyansh 👋
 
-# Hi, I'm Priyansh! 
+I'm an English major who spent five years building content and marketing engines for crypto protocols. Until I realized the part I actually loved was the research underneath the words. In late 2025, I pivoted: taught myself SQL and Python, completed four finance certifications (Corporate Finance Institute), and started trading and analyzing markets to see if my thesis could survive contact with reality.
 
-🌱 I'm an English major who spent five years building content and marketing engines for crypto protocols. But then decided the part I actually loved was the research underneath the words. 
+I'm a communicator who learned how markets and data actually work — a combination I think is rarer than it sounds.
 
-In 2025, I pivoted. 
+**Currently open to data analyst roles and freelance data/analytics projects.**
 
-I taught myself SQL and Python, went deep on core finance (four certifications from the Corporate Finance Institute), and started actively trading and analyzing markets to see if my thesis could survive contact with reality. 
+---
 
-I'm a communicator who decided to learn how markets and data actually work. That combination makes me a highly potent and incisive professional. 
+### Featured Project
 
-**Timeline** 
+**[Kwant Terminal](https://kwant-terminal.streamlit.app/)** — a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics — log returns, rolling volatility, drawdown — via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
 
-🖋️ 2020–2024 — Content & growth lead for crypto protocols including ClayStack and Neemo Finance; independent research-and-content work with Castle Capital and several crypto KOLs.
-🚀 2025 — Founded Quartermaster Labs, an independent Web3 research and growth advisory. Scaled it to $10K MRR, then wound it down to go all-in on data and markets.
-📊 2026 — Completed FMVA, CMSA, FP&A, and FPWMP (Corporate Finance Institute). Started learning Python, SQL, and market data analysis. Currently trading and researching both crypto and traditional finance markets.
+Evolved from two earlier tools: [OHLCV Downloader](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader) and [Tick Inspector](https://github.com/priyanshsx/tick-inspector) (data integrity auditing).
 
-**My Projects**
-- [OHLCV Downloader (crypto)](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader): Lets you download cleaned and neatly formatted .csv files from Yahoo Finance for crypto assets!
-- [Tick Inspector](https://github.com/priyanshsx/tick-inspector): Lets you run crypto data downloaded from Yahoo Finance and generates a data health report (looks for missing values, 0 values, bad data etc.).
-- [Ecommerce Dashboard (Tableau)](https://github.com/priyanshsx/ecommerce-dashboard): Analyzed Kaggle's Olist E-commerce dataset and created a public Tableau dashboard analyzing key sales and logistics performance questions. Check out the dashboard [here](https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17890159015860/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-- [YouTube Crypto Content Analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis): Analyzes the top 10 crypto YouTuber's videos and finds what video length and content types fuel high engagement rates. Check out the public dashboard [here](https://public.tableau.com/app/profile/priyansh.saxena7208/viz/YouTubeCryptoContentAnalysisTop50YouTubers/YoutubeCryptoContentAnalysisTop10)
-- [Tradfi Real Yields vs QQQ Returns](https://github.com/priyanshsx/Tradfi-Real-Yields-vs-Nasdaq): an investigation into how real yields affect QQQ returns on a daily timeframe. My first published project!
-- [BTC: Bull vs Bear Regimes](https://github.com/priyanshsx/btc-bull-vs-bear-regimes): a project that classifies each day of BTC trading over the past 3.6 years into a 'bull' or 'bear' regime using a single indicator: 200-day MA.
+---
 
-**What I'm working on**
+### Other Projects
 
-My public projects: Deep dive into how macro variables (yields, bonds, inflation) impact growth and alternative assets (tech/growth stocks, crypto) and commodities. 
+- **[YouTube Crypto Content Analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis)** — what video length and content type drive engagement across the top 10 crypto YouTube channels. [Dashboard →](https://public.tableau.com/app/profile/priyansh.saxena7208/viz/YouTubeCryptoContentAnalysisTop50YouTubers/YoutubeCryptoContentAnalysisTop10)
+- **[E-Commerce Performance Dashboard](https://github.com/priyanshsx/ecommerce-dashboard)** — revenue, retention, and delivery analysis across ~100K Olist orders. [Dashboard →](https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17890159015860/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Currently Working With/Tools**
+More (BTC regime classification, real yields vs. QQQ) in [all repos →](https://github.com/priyanshsx?tab=repositories)
 
-- Python and SQL for actual analysis
-- I'm also working through C and C++ slowly, on the side, because I want to understand computing from the ground up. 
+---
 
-**Career Documents**
+**Currently building:** an ML regime-detection layer for Kwant Terminal, a macro-vs-risk-assets deep dive, and three systems-level projects in C.
 
-[Resume](https://drive.google.com/file/d/1ld7BskoVL6wQs3paxgwCDcse94ulr1vX/view?usp=sharing) 
+**Tools:** Python (Pandas, NumPy, SciPy) · SQL (DuckDB, PostgreSQL) · Tableau
+**Learning:** applied statistics, scikit-learn, C/C++
 
-[Cover Letter](https://drive.google.com/file/d/13pZN2DPNt24d_3_6HLh7YEJyiA8cyaZV/view?usp=sharing) 
+---
 
-[Public profile and repos](https://github.com/priyanshsx?tab=repositories)
+### Career Documents
 
-**Let's Connect**
-If you're working on something that needs someone who can dig into a dataset and explain what it means to people who don't have the time to dig themselves - that's me. 
-Reach out on [X](https://x.com/brownbaconx) or [LinkedIn](https://www.linkedin.com/in/priyansh-saxena/). 
+📄 [Resume](https://drive.google.com/file/d/1ld7BskoVL6wQs3paxgwCDcse94ulr1vX/view?usp=sharing) · ✉️ [Cover Letter](https://drive.google.com/file/d/13pZN2DPNt24d_3_6HLh7YEJyiA8cyaZV/view?usp=sharing)
+
+---
+
+If you're working on something that needs someone who can dig into a dataset *and* explain what it means to people who don't have time to dig in themselves — reach out on [X](https://x.com/brownbaconx) or [LinkedIn](https://www.linkedin.com/in/priyansh-saxena/).
