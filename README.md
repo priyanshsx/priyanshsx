@@ -10,7 +10,7 @@ I'm a communicator who learned how markets and data actually work: a combination
 
 ### Featured Project
 
-**[Kwant Terminal](https://kwant-terminal.streamlit.app/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics — log returns, rolling volatility, drawdown via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
+**[Quartermaster]([https://kwant-terminal.streamlit.app/](https://quartermasterlabs.com/))** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics — log returns, rolling volatility, drawdown via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
 
 Evolved from two earlier tools: [OHLCV Downloader](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader) and [Tick Inspector](https://github.com/priyanshsx/tick-inspector) (data integrity auditing).
 
