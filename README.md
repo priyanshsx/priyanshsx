@@ -1,8 +1,6 @@
 # Hi, I'm Priyansh 👋
 
-I'm an English major who spent five years building content and marketing engines for crypto protocols. Until I realized the part I actually loved was the research underneath the words. In late 2025, I pivoted: taught myself SQL and Python, completed four finance certifications (Corporate Finance Institute), and started trading and analyzing markets to see if my thesis could survive contact with reality.
-
-I'm a communicator who learned how markets and data actually work: a combination I think is rarer than it sounds.
+A finance and quantitative research enthusiast. Having spent 5+ years doing research and content in crypto, I wanted to pivot to a core market and finance data role. In late 2025, I taught myself SQL and Python, completed four finance certifications (Corporate Finance Institute), and started trading and analyzing markets to see if my thesis could survive contact with reality.
 
 **Currently open to data analyst roles and freelance data/analytics projects.**
 
@@ -10,7 +8,7 @@ I'm a communicator who learned how markets and data actually work: a combination
 
 ### Featured Project
 
-**[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics — log returns, rolling volatility, drawdown via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
+**[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics: log returns, rolling volatility, drawdown via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
 
 Evolved from two earlier tools: [OHLCV Downloader](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader) and [Tick Inspector](https://github.com/priyanshsx/tick-inspector) (data integrity auditing).
 
@@ -25,7 +23,7 @@ More (BTC regime classification, real yields vs. QQQ) in [all repos →](https:/
 
 ---
 
-**Currently building:** an ML regime-detection layer for Kwant Terminal, a macro-vs-risk-assets deep dive, and three systems-level projects in C.
+**Currently working on:** Super-charging Quartermaster, doing quantitative research, and publishing at https://x.com/brownbaconx.
 
 **Tools:** Python (Pandas, NumPy, SciPy) · SQL (DuckDB, PostgreSQL) · Tableau
 **Learning:** applied statistics, scikit-learn, C/C++
