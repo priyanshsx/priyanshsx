@@ -1,6 +1,6 @@
 # Hi, I'm Priyansh 👋
 
-A finance and quantitative research enthusiast. Having spent 5+ years doing research and content in crypto, I wanted to pivot to a core market and finance data role. In late 2025, I taught myself SQL and Python, completed four finance certifications (Corporate Finance Institute), and started trading and analyzing markets to see if my thesis could survive contact with reality.
+I'm a quantitative researcher. In 2025, after a 5y long successful career in research and content, I built a research and content agency and scaled it to circa. $7K pm. To get a strong grip on finance and quantitative research, I learned SQL, Python, and completed 4x finance certifications from Corporate Finance Institute. I've been researching around markets and building products to help the everyday investor since. 
 
 **Currently open to data analyst roles and freelance data/analytics projects.**
 
@@ -8,7 +8,8 @@ A finance and quantitative research enthusiast. Having spent 5+ years doing rese
 
 ### Featured Project
 
-**[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics: log returns, rolling volatility, drawdown via interactive Plotly dashboards. Built as pure functions for a clean, testable pipeline.
+**[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics: log returns, rolling volatility, drawdown via interactive Plotly dashboards. 
+**[Quant Research](https://github.com/priyanshsx/quant-research)**: a repository dedicated to running trading strategies across different assets (crypto and beyond). 
 
 Evolved from two earlier tools: [OHLCV Downloader](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader) and [Tick Inspector](https://github.com/priyanshsx/tick-inspector) (data integrity auditing).
 
