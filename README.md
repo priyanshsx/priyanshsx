@@ -11,8 +11,6 @@ I'm a quantitative researcher. In 2025, after a 5y long successful career in res
 **[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics: log returns, rolling volatility, drawdown via interactive Plotly dashboards.  
 **[Quant Research](https://github.com/priyanshsx/quant-research)**: a repository dedicated to running trading strategies across different assets (crypto and beyond). 
 
-Evolved from two earlier tools: [OHLCV Downloader](https://github.com/priyanshsx/learning-python/tree/main/ohlcv_downloader) and [Tick Inspector](https://github.com/priyanshsx/tick-inspector) (data integrity auditing).
-
 ---
 
 ### Other Projects
