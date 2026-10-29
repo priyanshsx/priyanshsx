@@ -23,7 +23,7 @@ Shows what an investment returned and what a holder had to sit through to get it
 Signal-based prospecting for B2B service firms. Every morning it checks job boards for companies hiring for the problem the client solves, has an LLM judge each posting against the client's ideal customer profile, and emails a ranked list of companies worth contacting, with one-click links to the right people.
 
 - **First run:** 1,610 raw postings → 149 relevant → 48 worth contacting, 4 of them top priority
-- **Cost:** about ₹300 a month per client; the LLM labels the facts, and the client's own rules decide priority
+- **Cost:** about $3.15 a month per client; the LLM labels the facts, and the client's own rules decide priority
 - **Humans do the outreach:** the tool finds and ranks, people decide who to contact, and there is no LinkedIn scraping
 
 ---
