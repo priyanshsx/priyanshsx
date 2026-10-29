@@ -1,38 +1,44 @@
-# Hi, I'm Priyansh 👋
+# Priyansh Saxena
 
-I'm a quantitative researcher. In 2025, after a 5y long successful career in research and content, I built a research and content agency and scaled it to circa. $7K pm. To get a strong grip on finance and quantitative research, I learned SQL, Python, and completed 4x finance certifications from Corporate Finance Institute. I've been researching around markets and building products to help the everyday investor since. 
+Research-led GTM. I build the tools behind go-to-market, from market research to finding customers, and handle the positioning, writing and launch myself.
 
-**Currently open to data analyst roles and freelance data/analytics projects.**
-
----
-
-### Featured Project
-
-**[Quartermaster](https://quartermasterlabs.com/)** : a full-stack Streamlit web app for quantitative crypto analysis. Sources market data, runs it through a rule-based data-integrity auditor (a hard-stop quality gate), then computes risk-adjusted metrics: log returns, rolling volatility, drawdown via interactive Plotly dashboards.  
-**[Quant Research](https://github.com/priyanshsx/quant-research)**: a repository dedicated to running trading strategies across different assets (crypto and beyond). 
+**Now:** building [Quartermaster](https://quartermasterlabs.com), and running GTM for a B2B data quality consultancy: finding their clients and building the tooling that does it.
 
 ---
 
-### Other Projects
+### Quartermaster
+**[quartermasterlabs.com](https://quartermasterlabs.com)** · [code](https://github.com/priyanshsx/quartermaster)
 
-- **[YouTube Crypto Content Analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis)** : what video length and content type drive engagement across the top 10 crypto YouTube channels. [Dashboard →](https://public.tableau.com/app/profile/priyansh.saxena7208/viz/YouTubeCryptoContentAnalysisTop50YouTubers/YoutubeCryptoContentAnalysisTop10)
-- **[E-Commerce Performance Dashboard](https://github.com/priyanshsx/ecommerce-dashboard)** : revenue, retention, and delivery analysis across ~100K Olist orders. [Dashboard →](https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17890159015860/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Shows what an investment returned and what a holder had to sit through to get it. Covers crypto, US and Indian equities, and precious metals. Built and launched solo.
 
-More (BTC regime classification, real yields vs. QQQ) in [all repos →](https://github.com/priyanshsx?tab=repositories)
+| Research | GTM |
+|---|---|
+| Data-integrity gate that stops the analysis rather than chart bad data | Positioning, voice and all product copy |
+| Gap thresholds measured from 6 years of trading history per market | Personas, competitor analysis, SEO targets |
+| Exports that are byte-identical across machines | Build-in-public launch on X and Substack |
+
+### Job Alerts
+**[code](https://github.com/priyanshsx/job-alerts)** · client work
+
+Signal-based prospecting for B2B service firms. Every morning it checks job boards for companies hiring for the problem the client solves, has an LLM judge each posting against the client's ideal customer profile, and emails a ranked list of companies worth contacting, with one-click links to the right people.
+
+- **First run:** 1,610 raw postings → 149 relevant → 48 worth contacting, 4 of them top priority
+- **Cost:** about ₹300 a month per client; the LLM labels the facts, and the client's own rules decide priority
+- **Humans do the outreach:** the tool finds and ranks, people decide who to contact, and there is no LinkedIn scraping
 
 ---
 
-**Currently working on:** Super-charging Quartermaster, doing quantitative research, and publishing at https://x.com/brownbaconx.
+### Background
+5 years leading research and content for crypto protocols: **45K+ MAU** at ClayStack and **$4M+ TVL** in eight months at Neemo Finance. Ran an independent research advisory for B2B crypto clients, then retrained in finance (4 CFI certifications) and Python to build products.
 
-**Tools:** Python (Pandas, NumPy, SciPy) · SQL (DuckDB, PostgreSQL) · Tableau
-**Learning:** applied statistics, scikit-learn, C/C++
+### Selected research
+- **[BTC bull vs bear regimes](https://github.com/priyanshsx/btc-bull-vs-bear-regimes):** do Bitcoin's returns differ above and below the 200-day moving average?
+- **[Crypto YouTube analysis](https://github.com/priyanshsx/youtube-crypto-content-analysis):** what drives views and engagement for the top 10 crypto channels
+- **[E-commerce dashboard](https://github.com/priyanshsx/ecommerce-dashboard):** revenue, retention and delivery across ~100K orders
 
----
+**Tools:** Python (pandas, NumPy, SciPy, Pydantic), SQL (DuckDB, SQLite, PostgreSQL), LLM pipelines, Streamlit, Plotly, Tableau
 
-### Career Documents
+### Writing
+[Substack](#) · [X @brownbaconx](https://x.com/brownbaconx) · [LinkedIn](https://linkedin.com/in/priyansh-saxena)
 
-📄 [Resume](https://drive.google.com/file/d/1vjAnErNUXzStxEfqcBISitD6sB6Dx7TZ/view?usp=sharing) · ✉️ [Cover Letter](https://drive.google.com/file/d/1MSzwgGtRJ97xK4wyolBvGieFxZ-LyIxj/view?usp=sharing)
-
----
-
-If you're working on something that needs someone who can dig into a dataset *and* explain what it means to people who don't have time to dig in themselves — reach out on [X](https://x.com/brownbaconx) or [LinkedIn](https://www.linkedin.com/in/priyansh-saxena/).
+**Open to** GTM, research & content, and research analyst roles. Remote or Delhi. DMs open on X.
