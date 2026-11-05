@@ -20,7 +20,7 @@ Every morning, it sends a client a short list of companies that have the problem
 Finds the online conversations a client's buyers are having each week, so the client knows what to reply to and what to write about next.
 
 **[Quartermaster](https://quartermasterlabs.com/)**
-A free tool that turns raw market data into clean, ready-to-use risk numbers, with a built-in check that stops bad data before it reaches you. [[Code →]]([url](https://github.com/priyanshsx/job-alerts))
+A free tool that turns raw market data into clean, ready-to-use risk numbers, with a built-in check that stops bad data before it reaches you. [Code](https://github.com/priyanshsx/job-alerts).
 
 ---
 
